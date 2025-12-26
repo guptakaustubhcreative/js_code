@@ -14,4 +14,7 @@ let isloggedin = true
 console.log(typeof name) 
 // use typeof to know datatype
 console.log(typeof null)
+// refrence data types
+//array
+//function
 // object (null is also object in js)
